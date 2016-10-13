@@ -10,5 +10,9 @@ package Main;
  * @author Naz Kazi
  */
 public class WumpusWorld {
-    
+	public String[][] world;
+	public WumpusWorld(){
+		
+		
+	}
 }
